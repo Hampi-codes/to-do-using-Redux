@@ -1,0 +1,11 @@
+.remove_btn{
+    margin-left: 1rem !important;
+}
+.remove_btn:hover{
+    color: #1677ff!important;
+    border-color: #1677ff !important;
+    background-color: #fff !important
+}
+.list{
+    padding: 0.3rem;
+}
