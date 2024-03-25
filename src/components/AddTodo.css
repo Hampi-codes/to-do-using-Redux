@@ -1,9 +1,15 @@
 .button{
     color: aliceblue;
     background-color: #387b9c;
+    margin-left: 16.28px;
 }
 .button:hover{
     color: aliceblue !important;
     background-color: #4caad9 !important;
     border-color: #d9d9d9 !important;
+}
+
+.row{
+    width: 100%;
+    margin-bottom: 5px;
 }

@@ -7,5 +7,20 @@
     background-color: #fff !important
 }
 .list{
-    padding: 0.3rem;
+    padding: 0.5rem 0.5rem;
+    margin: 0.2rem 0;
+    text-align: start;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #2b60aa4c;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.div{
+    max-width: 270px;
+    overflow-x: scroll;
+    color: black;
+    font-weight: 600;
 }
